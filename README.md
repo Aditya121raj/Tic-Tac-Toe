@@ -2,7 +2,6 @@
 
 > A modern and responsive Tic Tac Toe game built using React, designed for fun, simplicity, and performance.
 
-![Tic Tac Toe Banner](https://raw.githubusercontent.com/Aditya121raj/Tic-Tac-Toe/main/banner.png)
 
 ---
 
