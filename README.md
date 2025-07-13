@@ -1,44 +1,93 @@
+# 🎮 Tic Tac Toe Game (React JS)
 
-![Tic Tac Toe](https://github.com/catherineisonline/tic-tac-toe/blob/main/src/assets/images/project-preview.png?raw=true)
-# Tic Tac Toe
+> A modern and responsive Tic Tac Toe game built using React, designed for fun, simplicity, and performance.
 
+![Tic Tac Toe Banner](https://raw.githubusercontent.com/Aditya121raj/Tic-Tac-Toe/main/banner.png)
 
-[Tic Tac Toe](https://catherineisonline.github.io/tic-tac-toe/) game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. It is also known as Noughts and Crosses or Xs and Os. The game is implemented using React and CSS
+---
 
-## Game rules
+## 🚀 Features
 
-1. The game is played on a grid that is 3 squares by 3 squares
-2. You are X, your friend is O. Players take turns putting their marks in empty squares
-3. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner
-4. When all 9 squares are full, the game is over
+- 🎯 **Two Player Mode** — Play with a friend on the same device.
+- ⚡ **Instant Move Detection** — Real-time X/O rendering.
+- 🧠 **Smart Win Detection** — Auto detects winner or draw state.
+- 📱 **Responsive Design** — Works great on mobile and desktop.
+- 🌙 **Clean UI** — Minimalist, modern look using pure CSS.
 
-## Getting Started with Create React App
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🛠️ Tech Stack
 
-## Available Scripts
+| Technology   | Usage                        |
+|--------------|------------------------------|
+| `React.js`   | UI Rendering and Game Logic  |
+| `JavaScript` | Core functionality           |
+| `CSS`        | Styling and Layout           |
+| `HTML`       | Markup Structure             |
 
-In the project directory, you can run:
+---
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🧑‍💻 How to Run Locally
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+# Clone the repository
+git clone https://github.com/Aditya121raj/Tic-Tac-Toe.git
 
-### `npm test`
+# Go into the directory
+cd Tic-Tac-Toe
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Install dependencies
+npm install
 
-### `npm run build`
+# Run the development server
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The app will be live at: [http://localhost:3000](http://localhost:5001)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🌐 Live Demo
+
+👉 [Click here to play the game](https://aditya121raj.github.io/Tic-Tac-Toe)
+
+---
+
+## 📁 Folder Structure
+
+```
+Tic-Tac-Toe/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── App.js
+│   ├── index.js
+│   └── styles/
+├── package.json
+└── README.md
+```
+
+---
+
+## 👤 Author
+
+Developed with ❤️ by [Aditya Raj](https://github.com/Aditya121raj)
+
+Feel free to fork this project or raise issues for improvements.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE)
+
+You are free to use, modify, and distribute with proper attribution.
+
+---
+
+## ⭐ Give a Star
+
+If you liked this project, feel free to ⭐ star it on GitHub to show support!
